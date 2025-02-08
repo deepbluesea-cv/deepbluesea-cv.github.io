@@ -13,7 +13,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #4E5458;/*#333;*/ /* 10392 C */
+  background-color: #0F2C58;/*4E5458;#333;*/ /* 10392 C */
 }
 
 .logo{
@@ -39,7 +39,7 @@ menu_li a:hover {
 }
 
 .active {
-  background-color: #00968F; /* 7716 C */
+  background-color: #C83A3A; /* 7716 C */
 }
 
 .row {
@@ -116,4 +116,3 @@ figure {
   display: flex;
   flex-direction: column;
 }
-
